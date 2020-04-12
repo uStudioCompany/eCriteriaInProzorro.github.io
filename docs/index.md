@@ -1,2 +1,2 @@
 tst
-![GitHub Logo](https://www.lucidchart.com/publicSegments/view/8394787e-5a13-405d-bd9f-e380695a1635/image.png)
+![Exclusion Grounds](https://www.lucidchart.com/publicSegments/view/4ae7da69-8c6a-42cb-82e3-5fe3c578e5f1/image.png)
