@@ -18,7 +18,10 @@
     "eocds_espd_add-ons.json
   ],
   "codelists": [
-    
+    "dataType.csv",
+    "evidenceTypes.csv",
+    "relatesTo.csv",
+    "responseSource.csv"
   ],
   "contactPoint": {
     "name": "uStudio Company",
