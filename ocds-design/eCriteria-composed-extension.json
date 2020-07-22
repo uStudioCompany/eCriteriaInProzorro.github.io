@@ -12,10 +12,11 @@
     "1.1"
   ],
   "schemas": [
-    "ocds_requirements.json",
-    "ocds_metrics.json",
-    "eocds_evidences.json",
-    "eocds_espd_add-ons.json"
+    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_requirements_extension/master/release-schema.json",
+    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_metrics_extension/master/release-schema.json",
+    "https://raw.githubusercontent.com/eOCDS-Extensions/eOCDS-evidences/master/release-schema.json",
+    "https://raw.githubusercontent.com/eOCDS-Extensions/eOCDS_espd_add-ons/master/release-schema.json",
+    "prozorro_add-ons.json"
   ],
   "codelists": [
     "dataType.csv",
