@@ -15,7 +15,7 @@
     "ocds_requirements.json",
     "ocds_metrics.json",
     "eocds_evidences.json",
-    "eocds_espd_add-ons.json
+    "eocds_espd_add-ons.json"
   ],
   "codelists": [
     "dataType.csv",
