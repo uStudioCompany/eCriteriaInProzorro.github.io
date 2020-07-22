@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en": "OCDS for the eCriteria in Prozorro"
+  },
+  "description": {
+    "en": "Collects, into a single extension, the extensions that compose the OCDS for the eCriteria implementation in Prozorro"
+  },
+  "documentationUrl": {
+    "en": "https://ustudiocompany.github.io/eCriteriaInProzorro"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "ocds_requirements.json",
+    "ocds_metrics.json",
+    "eocds_evidences.json",
+    "eocds_espd_add-ons.json
+  ],
+  "codelists": [
+    
+  ],
+  "contactPoint": {
+    "name": "uStudio Company",
+    "email": "lab@ustudio.company"
+  }
+}
