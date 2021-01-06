@@ -379,6 +379,11 @@
           "type": "string",
           "codelist": "evidenceTypes.csv",
           "opencodelist": true
+        },
+        "relatedDocument": {
+          "title": "",
+          "description": "",
+          "$ref": "#/definitions/Document"
         }
       }
     },
